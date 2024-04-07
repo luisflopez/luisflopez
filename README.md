@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @luisflopez
 - 👀 I’m interested in Cloud Security
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Security projecs
 - 📫 How to reach me https://luis.loxi.ca/
 
